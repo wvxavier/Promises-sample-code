@@ -1,5 +1,6 @@
 //Set of tools the makes easier to work with promises
 
+//Returns undefined
 const doWorkwithoutAsync = () => {
 
 }
@@ -12,7 +13,7 @@ const exampleDoWorkAsync = async () => {
 }
 
 console.log(exampleDoWorkAsync())
-/* 
+
 
 const add = async (a, b) => {
     return new Promise((resolve, reject) => {
@@ -37,4 +38,4 @@ callAdd().then((result) => {
     console.log(result)
 }).catch((error) => {
     console.log(error)
-}) */
+}) 
