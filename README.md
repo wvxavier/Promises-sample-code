@@ -1,6 +1,3 @@
-
-1. Non-blocking code
-
 # Promises-sample-code
 
 Essential for asynchronous programming Promises are vital for abstract a synchronous behaviour for your functions.
