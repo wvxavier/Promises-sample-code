@@ -2,7 +2,7 @@
 
 Essential for asynchronous programming Promises are vital for abstract a synchronous behaviour for your functions.
 The sample codes are simple examples of 
-*non-blocking execution
+* non-blocking execution
 * functions
 * callbacks
 * promises nesting and changing
