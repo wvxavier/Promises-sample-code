@@ -7,7 +7,7 @@ const doWorkwithoutAsync = () => {
 
 console.log(doWorkwithoutAsync())
 
-//Async functions always retunrs a Promise
+//Async functions always returns a Promise
 const exampleDoWorkAsync = async () => {
 
 }
